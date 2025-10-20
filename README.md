@@ -8,7 +8,6 @@
 网络安全相关技术：**Suricata、Snort**等、还有一些关于网络安全的技术、设计思想和理念等等
 
 
-
 ## 2024年11月开发的项目（普通管理系统）
 
 ### 命名：**校园失物招领系统**
@@ -22,9 +21,6 @@
 首页（后台）（普通项目，没什么看点）
 
 <img width="3312" height="2059" alt="image" src="https://github.com/user-attachments/assets/a359eda0-5c67-4a11-a3ab-b836821d76fa" />
-
-
-
 
 
 ## 2024年11月开发的项目（电影推荐系统）
@@ -63,8 +59,6 @@
 数据统计 - 类型分布
 
 <img width="2964" height="1970" alt="image" src="https://github.com/user-attachments/assets/9bdff71e-8e7b-4ac4-988c-ef0876bd97b4" />
-
-
 
 
 ## 2024年12月末开发的项目（关于网络安全）
@@ -114,31 +108,37 @@
 <img width="3600" height="1065" alt="image" src="https://github.com/user-attachments/assets/900b205d-0202-4cce-87ee-ac3a7a7ecf60" />
 
 
-
-
 ## 2025年1月开发的项目（关于网络安全）
 
 ### 命名：**基于机器学习算法智能钓鱼网站识别系统**
 
 涉及技术：Python、Django、HTML、CSS、JavaScript、决策树、自然语言NLP等等
 
+简单来说，就是用一个数据集训练一个模型，再使用这个模型对输入的URL地址做检测，结合爬虫、自身建立的特征库等给出风险评分
+
+首页（前台）
+
+<img width="1796" height="1372" alt="image" src="https://github.com/user-attachments/assets/fc6a060b-87e0-4dd1-9615-c14070ec0a92" />
 
 
+日志审计（后台）
+
+<img width="1723" height="1894" alt="image" src="https://github.com/user-attachments/assets/7952a8e2-ed89-467b-98ba-694954e42980" />
 
 
+## 2025年1月开发的项目（关于大数据）
 
+### 命名：**基于大数据的动漫推荐系统**
 
+涉及技术：Python、Django、HTML、CSS、JavaScript、Spark、推荐算法、SimpleUI、爬虫技术等等
 
+前台
 
+<img width="3420" height="1669" alt="image" src="https://github.com/user-attachments/assets/526e4292-217c-4c5c-a4e5-7b5330589eb6" />
 
+后台
 
-
-
-
-
-
-
-
+<img width="3577" height="1599" alt="image" src="https://github.com/user-attachments/assets/1ef94235-ba76-4364-9de8-d4deca5f9a80" />
 
 
 
