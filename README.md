@@ -9,7 +9,79 @@
 
 
 
-## 2024年12月末开发的第一个项目（关于网络安全）
+## 2024年11月开发的项目（普通管理系统）
+
+### 命名：**校园失物招领系统**
+
+涉及技术：Python、Django、HTML、CSS、JavaScript等等
+
+首页（前台）
+
+<img width="3096" height="2046" alt="image" src="https://github.com/user-attachments/assets/ba5d8f39-890c-4694-a458-805a6e30fc93" />
+
+首页（后台）（普通项目，没什么看点）
+
+<img width="3312" height="2059" alt="image" src="https://github.com/user-attachments/assets/a359eda0-5c67-4a11-a3ab-b836821d76fa" />
+
+
+
+
+
+
+
+
+## 2024年11月开发的项目（电影推荐系统）
+
+### 命名：**电影分析推荐平台**
+
+涉及技术：Python、Django、HTML、CSS、JavaScript、爬虫技术（爬取电影相关信息）、推荐算法（协同过滤）、预测算法（随机森林）等等（关于算法是简单实现与使用，并不是能达到商用的水平）
+
+排行榜页面（前台）
+
+<img width="2964" height="1970" alt="image" src="https://github.com/user-attachments/assets/2339e29a-0e0d-4254-b009-c0c191d9a692" />
+
+推荐页面
+
+<img width="2878" height="1875" alt="image" src="https://github.com/user-attachments/assets/2de778bb-eceb-41cb-a4c9-3b4c36f09128" />
+
+
+
+
+
+
+预测页面（后台）
+
+<img width="3640" height="1852" alt="image" src="https://github.com/user-attachments/assets/301df1e7-90ed-45bf-8053-d0f2ad984b5d" />
+
+数据统计
+
+<img width="3816" height="1810" alt="image" src="https://github.com/user-attachments/assets/bc057eb8-2561-4c14-8f2c-04ebf8af0973" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2024年12月末开发的项目（关于网络安全）
 
 ### 命名：**网络安全入侵流量检测系统**
 
