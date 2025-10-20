@@ -27,9 +27,6 @@
 
 
 
-
-
-
 ## 2024年11月开发的项目（电影推荐系统）
 
 ### 命名：**电影分析推荐平台**
@@ -44,39 +41,28 @@
 
 <img width="2878" height="1875" alt="image" src="https://github.com/user-attachments/assets/2de778bb-eceb-41cb-a4c9-3b4c36f09128" />
 
+推荐2
+
+<img width="2964" height="1970" alt="image" src="https://github.com/user-attachments/assets/b3363379-3a36-4122-9073-435d21bf92a3" />
 
 
+搜索
 
+<img width="2964" height="1970" alt="image" src="https://github.com/user-attachments/assets/25c22211-9b91-45a3-88a5-04538a602d9b" />
 
 
 预测页面（后台）
 
 <img width="3640" height="1852" alt="image" src="https://github.com/user-attachments/assets/301df1e7-90ed-45bf-8053-d0f2ad984b5d" />
 
-数据统计
+数据统计 - 热门
 
 <img width="3816" height="1810" alt="image" src="https://github.com/user-attachments/assets/bc057eb8-2561-4c14-8f2c-04ebf8af0973" />
 
 
+数据统计 - 类型分布
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="2964" height="1970" alt="image" src="https://github.com/user-attachments/assets/9bdff71e-8e7b-4ac4-988c-ef0876bd97b4" />
 
 
 
@@ -130,7 +116,11 @@
 
 
 
+## 2025年1月开发的项目（关于网络安全）
 
+### 命名：**基于机器学习算法智能钓鱼网站识别系统**
+
+涉及技术：Python、Django、HTML、CSS、JavaScript、决策树、自然语言NLP等等
 
 
 
