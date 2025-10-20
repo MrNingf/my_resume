@@ -145,7 +145,7 @@
 
 ### 命名：**基于Linux的靶场系统设计**
 
-涉及技术：Python、Django、HTML、CSS、JavaScript、Docker、CentOS系统等等
+涉及技术：Python、Django、HTML、CSS、JavaScript、Docker、CentOS系统、靶场docker-compose文件等等
 
 靶场环境管理
 
@@ -154,6 +154,31 @@
 靶场详情
 
 <img width="3063" height="1902" alt="image" src="https://github.com/user-attachments/assets/0e55daad-f39e-4f4d-b9c2-2cb1e5404acd" />
+
+
+## 2025年2月开发的项目（关于大数据）
+
+### 命名：**基于neo4j知识图谱的饮食健康推荐系统**
+
+涉及技术：Python、Django、HTML、CSS、JavaScript、Neo4j知识图谱、CentOS系统等等
+
+首页 - 前台
+
+<img width="2708" height="1812" alt="image" src="https://github.com/user-attachments/assets/bf3147c5-5a84-429a-b548-f5842b755227" />
+
+<img width="2276" height="1550" alt="image" src="https://github.com/user-attachments/assets/3b5f3dbe-f947-4146-8fdb-faedca037a4f" />
+
+
+图谱
+
+<img width="2351" height="1891" alt="image" src="https://github.com/user-attachments/assets/17536dc0-342b-483d-aeb1-d13f4ed36e9d" />
+
+后台
+
+<img width="2490" height="1716" alt="image" src="https://github.com/user-attachments/assets/53acf268-89e2-447e-a096-d01f330c403c" />
+
+
+
 
 
 
