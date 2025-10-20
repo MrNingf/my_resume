@@ -1,7 +1,7 @@
 # my_resume
 我的履历:
 
-以下是关于网络安全和开发的一些项目
+以下是关于网络安全和开发的一些项目（照片比较多、需要加载等待时间长）
 
 相关技术栈：**Python、Vue、HTML、CSS、JavaScript、Django、Flask**等
 
